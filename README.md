@@ -36,8 +36,8 @@ If you're looking for cybersecurity expertise or secure development support, we'
 
 - 🌍 **Website**: [safetylight.dev](https://safetylight.dev)
 - 📧 **Email**: contact at safetylight dot dev.
-- 💼 **LinkedIn**: [SafetyLight LLC](https://linkedin.com/company/safetylight)
+- 💼 **LinkedIn**: [SafetyLight LLC](https://www.linkedin.com/company/safetylightllc/).
 
 ---
 
-**Let us light the way to a safer digital future.
+*** 🔦 Let us light the way to a safer digital future. ***
