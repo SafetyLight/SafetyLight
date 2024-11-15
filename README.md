@@ -1,8 +1,8 @@
 # Welcome to SafetyLight LLC's GitHub
 
-SafetyLight helps businesses illuminate their path to a **secure and compliant information security management program** (ISMP). SafetyLight LLC specializes in cybersecurity consulting and secure software development, providing insights and expertise meet your specific  needs and enhance your information security capabilities.
+SafetyLight helps businesses illuminate their path to a **secure and compliant information security management program** (ISMP). SafetyLight specializes in cybersecurity consulting and secure software development, providing insights and expertise meet your specific  needs and enhance your information security capabilities.
 
-SafetyLight's mission is to make security and compliance approachable, actionable, and effective without unnecessary complexity.
+Our mission is to make security and compliance approachable, actionable, and effective without unnecessary complexity.
 
 ---
 
