@@ -2,11 +2,11 @@
 
 SafetyLight helps businesses illuminate their path to a **secure and compliant information security management program** (ISMP). SafetyLight specializes in cybersecurity consulting and secure software development, providing insights and expertise meet your specific  needs and enhance your information security capabilities.
 
-Our mission is to make security and compliance approachable, actionable, and effective without unnecessary complexity.
+SafetyLight's mission is to make security and compliance approachable, actionable, and effective without unnecessary complexity.
 
 ---
 
-## 🌟 Services We Offer
+## 🌟 SafetyLight Services 
 
 ### 🔐 **Cybersecurity Consulting**
 - **Program Maturity Assessments**: Assess gaps and plan for their closure.
@@ -21,12 +21,6 @@ Our mission is to make security and compliance approachable, actionable, and eff
 - **Penetration Test Coordination**: Work with trusted partners to validate your defenses.
 - **Developer Training**: Empower teams to write secure code.
 - **Technical Risk Assessment**: Pinpoint technical risks early in the development lifecycle.
-
----
-
-## 🌐 About Our GitHub
-
-This GitHub is for sharing security resources. 
 
 ---
 
