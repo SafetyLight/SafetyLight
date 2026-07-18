@@ -28,6 +28,6 @@ I'm Brian Myers. Through SafetyLight I help businesses build security programs t
 
 ## Contact
 
-Website: [safetylight.dev](https://safetylight.dev)
-Email: info at safetylight dot dev
+Website: [safetylight.dev](https://safetylight.dev)<br>
+Email: info at safetylight dot dev<br>
 LinkedIn: [bgmyers](https://www.linkedin.com/in/bgmyers/)
