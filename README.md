@@ -1,37 +1,33 @@
-# Welcome to SafetyLight LLC's GitHub
+# SafetyLight LLC
 
-SafetyLight helps businesses illuminate their path to a **secure and compliant information security management program** (ISMP). SafetyLight specializes in cybersecurity consulting and secure software development, providing insights and expertise meet your specific  needs and enhance your information security capabilities.
+I'm Brian Myers. Through SafetyLight I help businesses build security programs that fit: practical controls, credible compliance, and no more process than the business can actually carry.
 
-SafetyLight's mission is to make security and compliance approachable, actionable, and effective without unnecessary complexity.
+## What I do
 
----
+### Security programs
 
-## 🌟 SafetyLight Services 
+- Compliance: SOC 2, NIST, HIPAA...
+- Interim and fractional security leadership
+- Risk management and maturity assessments
+- Customer security questionnaires and RFPs
+- Security controls, policies, and procedures
+- Incident response and tabletop exercises
+- Security awareness training
 
-### 🔐 **Cybersecurity Consulting**
-- **Program Maturity Assessments**: Assess gaps and plan for their closure.
-- **Compliance**: Comply with SOC 2, NIST CSF, ISO 27001, HIPAA, and other standards.
-- **Risk Management**: Identify risks, assess vendors, and create tailored risk management plans.
-- **Incident Response**: Develop response plans, conduct table-top exercises, and prepare for incidents.
-- **Security Awareness**: Build policies, deliver training, and align culture with security best practices. 
+### Secure development
+- Secure development lifecycle
+- Developer security training
+- Penetration test coordination
+- Vulnerability management
+- Security champions programs
 
-### 🛡️ **Secure Software Development**
-- **Secure Development Lifecycle (SDL)**: Integrate security into your software processes.
-- **Vulnerability Management**: Identify and address security issues in your applications.
-- **Penetration Test Coordination**: Work with trusted partners to validate your defenses.
-- **Developer Training**: Empower teams to write secure code.
-- **Technical Risk Assessment**: Pinpoint technical risks early in the development lifecycle.
+## On GitHub
 
----
+- [Presentations](https://github.com/SafetyLight/Presentations) — slides, notes, and example documents from my talks at BSides, OWASP, ISACA, PNSQC, and elsewhere, including _Waking Up to AI_, _Kidnapping a Library_, and _A Minimum Viable Security Program_.
+- [BinaryRisk](https://github.com/SafetyLight/BinaryRisk) — a modernized, single-file web app for Ben Sapiro's Binary Risk Analysis, a fast way to structure risk conversations and work through a risk register. [Try it live](https://safetylight.github.io/BinaryRisk/BinaryRisk.html).
 
-## 🤝 Let's Connect!
+## Contact
 
-If you're looking for cybersecurity expertise or secure development support, we'd love to hear from you.
-
-- 🌍 **Website**: [safetylight.dev](https://safetylight.dev)
-- 📧 **Email**: contact at safetylight dot dev.
-- 💼 **LinkedIn**: [SafetyLight LLC](https://www.linkedin.com/company/safetylightllc/).
-
----
-
-*** 🔦 Let us light the way to a safer digital future. ***
+Website: [safetylight.dev](https://safetylight.dev)
+Email: info at safetylight dot dev
+LinkedIn: [bgmyers](https://www.linkedin.com/in/bgmyers/)
